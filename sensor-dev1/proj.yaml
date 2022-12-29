@@ -1,7 +1,7 @@
 workdir: .
 devdir: /media/skippyelvis/CIRCUITPY
 sharedir: ../cpshare
-devname: 1
+devname: sensor
 ignore:
     - proj.yaml
 libdir: /home/skippyelvis/circuitpy/libs/adafruit-circuitpython-bundle-8.x-mpy-20221029/lib
